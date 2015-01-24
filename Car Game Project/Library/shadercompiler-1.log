@@ -1,0 +1,383 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-10668
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1943 outsize=615 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1630 outsize=1485 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1630 outsize=1965 kw= ok=1
+Cmd: preprocess
+  insize=2611 outsize=856 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2057 outsize=1948 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2057 outsize=1957 kw=LIGHTMAP_ON ok=1
+Cmd: preprocess
+  insize=894 outsize=302 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=894 outsize=990 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=894 outsize=1193 kw= ok=1
+Cmd: preprocess
+  insize=9827 outsize=9827 ok=1
+Cmd: preprocess
+  insize=8918 outsize=5490 ok=1
+Cmd: preprocess
+  insize=2248 outsize=2248 ok=1
+Cmd: preprocess
+  insize=2100 outsize=596 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1805 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1805 outsize=1688 kw= ok=1
+Cmd: preprocess
+  insize=2429 outsize=886 ok=1
+Cmd: preprocess
+  insize=905 outsize=905 ok=1
+Cmd: preprocess
+  insize=1446 outsize=558 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1189 outsize=1558 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1189 outsize=1372 kw= ok=1
+Cmd: preprocess
+  insize=2144 outsize=1906 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6277 outsize=5678 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6277 outsize=3549 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3904 outsize=5328 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3904 outsize=3777 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5647 outsize=5434 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5647 outsize=2696 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3396 outsize=5085 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3396 outsize=2923 kw=POINT ok=1
+Cmd: preprocess
+  insize=748 outsize=748 ok=1
+Cmd: preprocess
+  insize=8917 outsize=1153 ok=1
+Cmd: preprocess
+  insize=1699 outsize=647 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1354 outsize=1632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1354 outsize=1437 kw= ok=1
+Cmd: preprocess
+  insize=1662 outsize=609 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1355 outsize=1485 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1355 outsize=1502 kw= ok=1
+Cmd: preprocess
+  insize=4962 outsize=4663 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6310 outsize=5678 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6310 outsize=3549 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3937 outsize=5328 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3937 outsize=3777 kw=POINT ok=1
+Cmd: preprocess
+  insize=1215 outsize=451 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1066 outsize=1055 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1066 outsize=1217 kw= ok=1
+Cmd: preprocess
+  insize=648 outsize=1297 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4971 outsize=3094 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4971 outsize=1437 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2508 outsize=3053 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2508 outsize=1713 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1885 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1885 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4376 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4376 outsize=1331 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=1486 outsize=523 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1265 outsize=1347 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1265 outsize=1437 kw= ok=1
+Cmd: preprocess
+  insize=596 outsize=596 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (38): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=3364 outsize=2463 ok=1
+Cmd: preprocess
+  insize=633 outsize=633 ok=1
+Cmd: preprocess
+  insize=2628 outsize=2628 ok=1
+Cmd: preprocess
+  insize=9948 outsize=9948 ok=1
+Cmd: preprocess
+  insize=847 outsize=376 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=773 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=773 outsize=819 kw= ok=1
+Cmd: preprocess
+  insize=5667 outsize=2816 ok=1
+Cmd: preprocess
+  insize=695 outsize=469 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=528 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=528 outsize=868 kw= ok=1
+Cmd: preprocess
+  insize=3430 outsize=3430 ok=1
+Cmd: preprocess
+  insize=596 outsize=596 ok=1
+Cmd: preprocess
+  insize=833 outsize=426 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=709 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=709 outsize=1047 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (100): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=2669 outsize=1484 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1301 outsize=2103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1301 outsize=1583 kw= ok=1
+Cmd: preprocess
+  insize=1290 outsize=1290 ok=1
+Cmd: preprocess
+  insize=459 outsize=459 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (100): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=2669 outsize=1484 ok=1
+Cmd: preprocess
+  insize=894 outsize=302 ok=1
+Cmd: preprocess
+  insize=1345 outsize=754 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=893 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=893 outsize=1022 kw= ok=1
+Cmd: preprocess
+  insize=634 outsize=634 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2057 outsize=1900 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2057 outsize=1615 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=3904 outsize=4548 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3904 outsize=3305 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3937 outsize=4548 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3937 outsize=3305 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (43): 'vert': function return value missing semantics
+  api=8 type=0 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (58): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=2508 outsize=2338 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2508 outsize=1242 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'vert': function return value missing semantics
+  api=8 type=0 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (78): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (43): 'vert': function return value missing semantics
+  api=8 type=0 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (58): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'vert': function return value missing semantics
+  api=8 type=0 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (78): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'vert': function return value missing semantics
+  api=8 type=0 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (78): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: preprocess
+  insize=1943 outsize=615 ok=1
+Cmd: preprocess
+  insize=2611 outsize=856 ok=1
+Cmd: preprocess
+  insize=894 outsize=302 ok=1
+Cmd: preprocess
+  insize=9827 outsize=9827 ok=1
+Cmd: preprocess
+  insize=8918 outsize=5490 ok=1
+Cmd: preprocess
+  insize=2248 outsize=2248 ok=1
+Cmd: preprocess
+  insize=2100 outsize=596 ok=1
+Cmd: preprocess
+  insize=2429 outsize=886 ok=1
+Cmd: preprocess
+  insize=905 outsize=905 ok=1
+Cmd: preprocess
+  insize=1446 outsize=558 ok=1
+Cmd: preprocess
+  insize=2144 outsize=1906 ok=1
+Cmd: preprocess
+  insize=748 outsize=748 ok=1
+Cmd: preprocess
+  insize=8917 outsize=1153 ok=1
+Cmd: preprocess
+  insize=1699 outsize=647 ok=1
+Cmd: preprocess
+  insize=1662 outsize=609 ok=1
+Cmd: preprocess
+  insize=4962 outsize=4663 ok=1
+Cmd: preprocess
+  insize=1215 outsize=451 ok=1
+Cmd: preprocess
+  insize=648 outsize=1297 ok=1
+Cmd: preprocess
+  insize=1486 outsize=523 ok=1
+Cmd: preprocess
+  insize=596 outsize=596 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (38): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=3364 outsize=2463 ok=1
+Cmd: preprocess
+  insize=633 outsize=633 ok=1
+Cmd: preprocess
+  insize=2628 outsize=2628 ok=1
+Cmd: preprocess
+  insize=9948 outsize=9948 ok=1
+Cmd: preprocess
+  insize=847 outsize=376 ok=1
+Cmd: preprocess
+  insize=5667 outsize=2816 ok=1
+Cmd: preprocess
+  insize=695 outsize=469 ok=1
+Cmd: preprocess
+  insize=3430 outsize=3430 ok=1
+Cmd: preprocess
+  insize=596 outsize=596 ok=1
+Cmd: preprocess
+  insize=833 outsize=426 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (100): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=2669 outsize=1484 ok=1
+Cmd: preprocess
+  insize=1290 outsize=1290 ok=1
+Cmd: preprocess
+  insize=459 outsize=459 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (100): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=2669 outsize=1484 ok=1
+Cmd: preprocess
+  insize=894 outsize=302 ok=1
+Cmd: preprocess
+  insize=1345 outsize=754 ok=1
+Cmd: preprocess
+  insize=634 outsize=634 ok=1
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (43): 'vert': function return value missing semantics
+  api=8 type=0 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (58): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'vert': function return value missing semantics
+  api=8 type=0 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (78): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (43): 'vert': function return value missing semantics
+  api=8 type=0 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (58): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=1845 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'vert': function return value missing semantics
+  api=8 type=0 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (78): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=0 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 1 plat 8 at (142): implicit truncation of vector type
+  error: 2 plat 8 at (143): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=8 type=1 insize=3732 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'vert': function return value missing semantics
+  api=8 type=0 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (78): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (48): 'vert': function return value missing semantics
+  api=8 type=0 insize=3155 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (78): 'frag': input parameter 'i' missing semantics
+  api=8 type=1 insize=3155 outsize=0 kw= ok=0
