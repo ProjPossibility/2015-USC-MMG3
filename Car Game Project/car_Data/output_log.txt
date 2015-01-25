@@ -6,33 +6,25 @@ Direct3D:
     Vendor:   Intel
     VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.063 seconds
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityWorkspace\Car Game Project\car_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\UnityWorkspace\Car Game Project\car_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityWorkspace\Car Game Project\car_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\UnityScript.Lang.dll (this message is harmless)
-Platform assembly: D:\UnityWorkspace\2015-USC-MMG3\Car Game Project\car_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\UnityWorkspace\Car Game Project\car_Data\Managed\Boo.Lang.dll (this message is harmless)
 WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
 WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
-Server Has Been Initialised
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Registration Successful
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
