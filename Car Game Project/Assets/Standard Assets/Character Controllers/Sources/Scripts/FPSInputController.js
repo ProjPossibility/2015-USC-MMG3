@@ -4,11 +4,14 @@ private var motor : CharacterMotor;
 function Awake () {
 	motor = GetComponent(CharacterMotor);
 }
-
+// Update is called once per frame
+ var turnSpeed : float = 50.0;
 // Update is called once per frame
 function Update () {
 	// Get the input vector from keyboard or analog stick
-	var directionVector = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+	//var directionVector = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+	var directionVector = new Vector3(0, 0, Input.GetAxis("Vertical"));
+     transform.Rotate(Vector3.up, Input.GetAxis("Horizontal")*turnSpeed *Time.deltaTime);
 	
 	if (directionVector != Vector3.zero) {
 		// Get the length of the directon vector and then normalize it
